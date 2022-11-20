@@ -2,7 +2,7 @@
 """
 Created on Wed Mar  3 07:30:39 2021
 
-@author: Z52XXR7
+@author: Filipe Pacheco
 
 Code to give an example on how to run a CVML project with TensorFlow and Keras
 
